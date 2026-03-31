@@ -83,3 +83,4 @@ The system is built using a **LangGraph multi-agent architecture**, where each a
 
 ## 🏗️ System Architecture
 
+![Diagram](course_advising_system_diagram_updated.png)
